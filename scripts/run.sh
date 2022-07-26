@@ -22,7 +22,7 @@ exec > >(tee ${LOG_FILE}) 2>&1
 # Run script
 source sandbox/bin/activate
 
-echo "Startt to run Python script"
+echo "Start to run Python script"
 python3 ${SCRIPTS_FOLDER}/${PYTHON_SCRIPT_NAME}
 
 RC1=$?
