@@ -1,5 +1,5 @@
 # weclouddata-lab1
-Lab 2 for We Cloud Data data engineering bootcamp
+Lab 1 for We Cloud Data data engineering bootcamp
 First practice with hands-on ETL process
 In this lab we use an EC2 instance to access an API at https://www.themuse.com/api/public/jobs, extracting the data.
 The data is than transformed using a python script and then saved/loaded into an S3 bucket.
